@@ -1,0 +1,1 @@
+process.env.GERENCIA_TIME_LOGIN_TOKEN='secret';
